@@ -1,2 +1,4 @@
 ida
 print("take you  to travel ")
+haha  下课了
+haohao xuexi tiantian xiangshang
